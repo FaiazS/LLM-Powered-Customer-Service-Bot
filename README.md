@@ -13,3 +13,18 @@ A beginner-friendly customer service chatbot powered by **Meta’s LLaMA 3.3 70B
 - 🧾 Clean, modular codebase with reusable components
   
 - 🧪 Perfect for **prompt engineering** and beginner-level LLM experimentation
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+
+| 🧠 LLaMA 3.3 70B | The foundational LLM |
+
+| ⚡ Groq API | Lightning-fast inference backend |
+
+| 🧩 LiteLLM | Unified interface to call models |
+
+| 💻 Python | Core logic and scripting |
+
+| 🛡️ Google Colab `userdata` | Secure handling of secrets |
